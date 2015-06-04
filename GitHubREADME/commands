@@ -1,0 +1,4 @@
+1. Once github has been installed type "git" will show commands help
+2. Set up the global username:
+	git conifg --global user.name "yinlosky" 
+
